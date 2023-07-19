@@ -1,0 +1,28 @@
+div{
+    background-color: crimson;
+}
+
+h1{
+    color: #F1F6F9; /*color de letra*/
+    font-size: 90px; /*tamaño de letra*/
+    text-align: center;/*centrar letra*/
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+p{
+color: #212A3E; /*color de texto*/
+font-size: 30px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+img{
+    width: 750px; /*tamaño de imagen*/
+    height: 750px;
+    border-radius: 50%;/*bordes de imagen*/
+}
+
+.otrodiv{
+        background-color: lightskyblue;
+}
